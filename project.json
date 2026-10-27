@@ -1,0 +1,239 @@
+{
+  "generator": {
+    "name": "造島工坊 IsleForge",
+    "version": 1,
+    "createdAt": "2026-10-27"
+  },
+  "site": {
+    "title": "JJ 小二國語冒險旅途",
+    "slug": "jj",
+    "tagline": "一起來抓寶",
+    "author": "Wet Dad",
+    "contact": "",
+    "audience": "國小學生",
+    "language": "zh-TW",
+    "mascot": {
+      "name": "JJ",
+      "description": "頭髮小卷,身穿競速直排輪緊身衣和直排輪"
+    }
+  },
+  "islandType": {
+    "id": "course",
+    "name": "課程群島",
+    "description": "一課一座島：讀教材、填學習單、做隨堂測驗，中央島是總複習。"
+  },
+  "centerIsland": {
+    "name": "JJ 小二國語冒險旅途",
+    "role": "總複習島",
+    "description": "總複習島：從各課題庫輪流抽題做跨課測驗，並顯示全部課程的學習進度。"
+  },
+  "extraLabel": "學習目標",
+  "islands": [
+    {
+      "order": 1,
+      "id": "island-01",
+      "name": "打招呼",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_01.pdf"
+    },
+    {
+      "order": 2,
+      "id": "island-02",
+      "name": "爬梯子",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_02.pdf"
+    },
+    {
+      "order": 3,
+      "id": "island-03",
+      "name": "勇氣樹",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_03.pdf"
+    },
+    {
+      "order": 4,
+      "id": "island-04",
+      "name": "一天的時間",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_04.pdf"
+    },
+    {
+      "order": 5,
+      "id": "island-05",
+      "name": "小書蟲",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_05.pdf"
+    },
+    {
+      "order": 6,
+      "id": "island-06",
+      "name": "從自己開始",
+      "group": "",
+      "intro": "",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "materials/115國小國語2上課本PDF_06.pdf"
+    }
+  ],
+  "theme": {
+    "style": "海洋清涼",
+    "font": "圓體",
+    "primary": "#3f7d3a",
+    "accent": "#e3a33b",
+    "backgrounds": [
+      {
+        "name": "森林",
+        "background": "#eef3e6",
+        "default": true
+      },
+      {
+        "name": "苔原",
+        "background": "#dfe8d3",
+        "default": false
+      },
+      {
+        "name": "深林",
+        "background": "#1b2a20",
+        "default": false
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": "search",
+      "name": "搜尋",
+      "description": "用關鍵字找島嶼與內容"
+    },
+    {
+      "id": "list",
+      "name": "地點清單",
+      "description": "不用 3D 也能讀完所有內容"
+    },
+    {
+      "id": "progress",
+      "name": "探索進度",
+      "description": "記錄看過哪些島（存在瀏覽器）"
+    },
+    {
+      "id": "quiz",
+      "name": "小測驗",
+      "description": "每座島或中央島的測驗題"
+    },
+    {
+      "id": "dayNight",
+      "name": "晝夜切換",
+      "description": "白天、黃昏、夜晚光線"
+    },
+    {
+      "id": "reducedMotion",
+      "name": "減少動態",
+      "description": "暫停動畫，保護容易暈眩的人"
+    },
+    {
+      "id": "certificate",
+      "name": "完成證書",
+      "description": "全部完成後可下載或列印"
+    },
+    {
+      "id": "collection",
+      "name": "收集圖鑑",
+      "description": "已收集／未收集卡片"
+    },
+    {
+      "id": "people",
+      "name": "小人物散步",
+      "description": "島上有小人物沿著道路走動，增加生活感"
+    }
+  ],
+  "materials": [
+    {
+      "file": "materials/115國小國語2上課本PDF_01.pdf",
+      "sizeKB": 4145,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上課本PDF_02.pdf",
+      "sizeKB": 3358,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上課本PDF_03.pdf",
+      "sizeKB": 5302,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上課本PDF_04.pdf",
+      "sizeKB": 4203,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上課本PDF_05.pdf",
+      "sizeKB": 5543,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上課本PDF_06.pdf",
+      "sizeKB": 4993,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_01.pdf",
+      "sizeKB": 5460,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_02.pdf",
+      "sizeKB": 2843,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_03.pdf",
+      "sizeKB": 4190,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_04.pdf",
+      "sizeKB": 4873,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_05.pdf",
+      "sizeKB": 5545,
+      "note": ""
+    },
+    {
+      "file": "materials/115國小國語2上習作PDF_06.pdf",
+      "sizeKB": 2809,
+      "note": ""
+    }
+  ],
+  "webSources": [],
+  "publishMaterials": false,
+  "ai": "Gemini CLI",
+  "deploy": {
+    "preferred": "github",
+    "label": "GitHub Pages"
+  },
+  "notes": ""
+}
